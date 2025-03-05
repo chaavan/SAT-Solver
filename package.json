@@ -1,0 +1,13 @@
+{
+  "name": "sat-solver-project",
+  "version": "1.0.0",
+  "description": "SAT solver project for multiple puzzles",
+  "main": "solver.js",
+  "scripts": {
+    "solve-puzzle": "node solver.js",
+    "solve-sudoku": "node sudokuSolver.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
